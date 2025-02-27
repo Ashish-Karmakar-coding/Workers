@@ -1,0 +1,11 @@
+/* App.css */
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body.dark {
+  background-color: #1a202c; /* Tailwind's gray-900 */
+  color: #fff;
+}
